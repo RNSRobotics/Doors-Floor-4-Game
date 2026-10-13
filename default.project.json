@@ -1,0 +1,28 @@
+{
+  "name": "MyRobloxProject",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "src/shared"
+    },
+    "ServerScriptService": {
+      "$path": "src/server"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/client/PlayerScripts"
+      },
+      "StarterCharacterScripts": {
+        "$path": "src/client/CharacterScripts"
+      }
+    },
+    "StarterGui": {
+      "$path": "src/interface"
+    },
+    "Workspace": {
+      "ScriptedParts": {
+        "$path": "src/world"
+      }
+    }
+  }
+}

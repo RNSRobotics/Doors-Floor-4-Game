@@ -1,0 +1,9 @@
+# Project place file
+/Doors Floor 4 Game.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+Packages/
+sourcemap.json
+wally.lock
